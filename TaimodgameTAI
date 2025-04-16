@@ -2,9 +2,9 @@ local redzlib =
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/RedzLibV5/main/
 Source.Lua"))()
 local Window = redzlib:MakeWindow({
-   Title = "T¨¤i mod game hub ",
-   SubTitle = "by T¨¤i mod game",
-   SaveFolder = "T¨¤i mod game | BLOX FRUIT "
+   Title = "TÃ i mod game hub ",
+   SubTitle = "by TÃ i mod game",
+   SaveFolder = "TÃ i mod game | BLOX FRUIT "
 })
 
 local AFKOptions = {}
